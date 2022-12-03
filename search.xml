@@ -112,7 +112,7 @@
       <link href="/sleep-0-0-1/"/>
       <url>/sleep-0-0-1/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-czuWQxFL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-czuWQxFL"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Traumerei_梦幻曲",              author: "舒曼",              url: "https://www.musictherapist.xyz/Traumerei.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-LfQQltnh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-LfQQltnh"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Traumerei_梦幻曲",              author: "舒曼",              url: "https://www.musictherapist.xyz/Traumerei.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
       
       
       
@@ -334,13 +334,19 @@
     
     
     <entry>
-      <title>joy_0_0_3</title>
+      <title>joy_0_0_3/Luv_letter</title>
       <link href="/joy-0-0-3/"/>
       <url>/joy-0-0-3/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=30780433&auto=1&height=66">Luv Letter (Wisp X Remix) - Wisp X/DJ Okawari</iframe>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> joy </tag>
+            
+        </tags>
       
     </entry>
     
@@ -431,26 +437,38 @@
     
     
     <entry>
-      <title>relax_0_0_4</title>
+      <title>relax_0_0_4/Yours</title>
       <link href="/relax-0-0-4/"/>
       <url>/relax-0-0-4/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=444058647&auto=1&height=66">Yours - DJ Okawari</iframe>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> relax </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>relax_0_0_3</title>
+      <title>relax_0_0_3/星茶会</title>
       <link href="/relax-0-0-3/"/>
       <url>/relax-0-0-3/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=492390949&auto=1&height=66">星茶会by灰澈</iframe>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> relax </tag>
+            
+        </tags>
       
     </entry>
     
@@ -556,7 +574,7 @@
       <link href="/calm-0-0-0/"/>
       <url>/calm-0-0-0/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-Slgvehhm" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-Slgvehhm"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Three-Part_Inventions_三部创意曲",              author: "Bach",              url: "https://www.musictherapist.xyz/bach3.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-sHhoamPB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-sHhoamPB"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Three-Part_Inventions_三部创意曲",              author: "Bach",              url: "https://www.musictherapist.xyz/bach3.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
       
       
       
@@ -575,7 +593,7 @@
       <link href="/joy-0-0-0/"/>
       <url>/joy-0-0-0/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-SyPuuSYi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-SyPuuSYi"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Emperor_Waltz_皇帝圆舞曲",              author: "Johann Strauss",              url: "https://www.musictherapist.xyz/Emperor_Waltz.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-KJTmxtsK" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-KJTmxtsK"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Emperor_Waltz_皇帝圆舞曲",              author: "Johann Strauss",              url: "https://www.musictherapist.xyz/Emperor_Waltz.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
       
       
       
